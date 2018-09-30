@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# vscode
+udacity-datastructure-algos/.vscode/launch.json
